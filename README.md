@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JboufkriLab
 - 👀 I’m interested in taking happiest moments with building well architectured applications 
 - 🌱 I’m currently learning web3, VR
-- 💞️ I’m looking to collaborate on nextjs vous js
+- 💞️ I’m looking to collaborate on nextjs vue js
 - 📫 How to reach me : LinkedIn 
 
 <!---
